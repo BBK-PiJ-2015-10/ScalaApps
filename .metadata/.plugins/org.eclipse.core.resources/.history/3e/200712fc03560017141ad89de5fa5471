@@ -1,0 +1,13 @@
+import akka.actor._
+import akka.util.Timeout
+import akka.actor.Actor
+
+object SimpleActor extends App {
+  
+  val system = ActorSystem("winterfell")
+  
+  val hordor = system.actorOf(Props[Hordor], "Hordorito")
+  
+  hordor ! "Hello"
+  
+}

@@ -1,0 +1,11 @@
+
+
+class Ping {
+  
+}
+
+object PingPongRunner extends App {
+  
+  println ("Welcome to my World of Ping Pong Application")
+  
+}

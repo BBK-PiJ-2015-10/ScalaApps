@@ -1,0 +1,227 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Hordor$$anonfun$receive$1.class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Hordor.class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Greeting$.class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Greeting.class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Message.class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\SimpleActor$.class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\SimpleActor$delayedInit$body.class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\SimpleActor.class
+binary dependencies:
+8 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Hordor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Hordor$$anonfun$receive$1
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Greeting$
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Message
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> SimpleActor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> SimpleActor$
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> SimpleActor$delayedInit$body
+used names:
+110 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> !
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> A1
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> AbstractPartialFunction
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Actor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> ActorLogging
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> ActorRef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> B1
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Boolean
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Function1
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Hordor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Long
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> ScalaActorRef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> String
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> T0
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Thread
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> Unit
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> actor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> actorRef2Scala
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> akka
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> asInstanceOf
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> isInstanceOf
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> java
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> lang
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> package
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> println
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> self
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> sender
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> sleep
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> unchecked
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> &&
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> ==
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> A
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> AbstractFunction1
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> AnyRef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Boolean
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> IndexOutOfBoundsException
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Int
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Iterator
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Message
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> None
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Option
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Product
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> ScalaRunTime
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Serializable
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> Some
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> String
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> T
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> T0
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> _hashCode
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> _root_
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> _toString
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> asInstanceOf
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> eq
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> isInstanceOf
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> message
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> package
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> runtime
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> toString
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> typedProductIterator
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> ||
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> !
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Actor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> ActorRef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> ActorSystem
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> App
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Class
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> ClassTag
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Hordor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Props
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> ScalaActorRef
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> SimpleActor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> String
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> T
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Timeout
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> Unit
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> _$7
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> actor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> actorOf
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> actorRef2Scala
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> akka
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> apply
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> hordor
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> materializeClassTag
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> package
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> qual$1
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> reflect
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> system
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> util
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> x$1
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> x$2
+product stamps:
+8 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Greeting$.class -> lastModified(1497995434257)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Greeting.class -> lastModified(1497995434256)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Hordor$$anonfun$receive$1.class -> lastModified(1497995434249)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Hordor.class -> lastModified(1497995434248)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\Message.class -> lastModified(1497995434254)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\SimpleActor$.class -> lastModified(1497995434258)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\SimpleActor$delayedInit$body.class -> lastModified(1497995434260)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes\SimpleActor.class -> lastModified(1497995434258)
+source stamps:
+3 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> hash(bb1f1a96b0e6c5bc72c3c226aeef1931360de2d9)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> hash(11490b0e786160a62736ce56f48e5fed2f906032)
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> hash(c2f696d508516ef71a67a4d20123352181924d78)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> lastModified(1497445620416)
+C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar -> lastModified(1495619304000)
+C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> java.lang.Object
+C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar -> akka.actor.Actor$
+C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.App
+internal apis:
+3 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlLZcOQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBsdwoudAAEc2VsZnNxAH4AC/2W1250AAdjb250ZXh0dXEAfgAJAAAAJXNxAH4AC93KmzJ0AAZub3RpZnlzcQB+AAv2fnHydAAHUmVjZWl2ZXNxAH4ACyfN+LR0AAR3YWl0c3EAfgALammG4XQADSRhc0luc3RhbmNlT2ZzcQB+AAsjXcAAdAAGZXF1YWxzc3EAfgALj/lIcnQADGFzSW5zdGFuY2VPZnNxAH4AC39zzEx0AAxzeW5jaHJvbml6ZWRzcQB+AAtUVQrMdAANJGlzSW5zdGFuY2VPZnNxAH4AC0M2OR90AAdyZWNlaXZlc3EAfgALwxxBwXQACnByZVJlc3RhcnRzcQB+AAuyG03IdAANYXJvdW5kUmVjZWl2ZXNxAH4AC2LrFM90AAtwb3N0UmVzdGFydHNxAH4ACxSiYhJ0AAhwb3N0U3RvcHNxAH4ACyJD6pV0AAlub3RpZnlBbGxzcQB+AAs0vrYTdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtrGKhvdAAMaXNJbnN0YW5jZU9mc3EAfgALY3Q5Q3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAvjqPvRdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuAIBkDdAAGPGluaXQ+c3EAfgALxnMXK3QACHByZVN0YXJ0c3EAfgALHhitm3QACXVuaGFuZGxlZHNxAH4AC25kO/50AAI9PXNxAH4AC6EfMul0AAVjbG9uZXNxAH4AC9FxCY10AAYkaW5pdCRzcQB+AAvIRiXXdAAGc2VuZGVyc3EAfgALsVTs9nQACHRvU3RyaW5nc3EAfgAL/b5VGXQAAiE9c3EAfgALdMR3dHQACGdldENsYXNzc3EAfgALNtYobXQAAm5lc3EAfgALSDA0InQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC5jhC9h0AAJlcXNxAH4AC9Rd/y10AANsb2dzcQB+AAuvtKaidAACIyNzcQB+AAuGrmvydAAIZmluYWxpemVzcQB+AAsRK+VUdAAIaGFzaENvZGVzcQB+AAu0/9ZpdAAGSG9yZG9yc3EAfgALSavdFXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCBc3EAfgB8dXEAfgBgAAAAAHNxAH4AfHVxAH4AYAAAAABzcQB+AHx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIB0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJl0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAAFQWN0b3JxAH4Ak3NxAH4AjXQABk9iamVjdHNxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJl0AARqYXZhc3EAfgCZdAAEbGFuZ3EAfgCgc3EAfgCNdAADQW55c3EAfgCRc3EAfgCUdXEAfgCXAAAAAnNxAH4AmXQABXNjYWxhcQB+AKB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMd8SP11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABDQzpcVXNlcnNceWFzc2VcU2NhbGFBcHBzXEFra2FTaW1wbGVBY3RvcnNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLsfGpaw5sW8csPCJq7vGTE2DeLZ
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLMsD8QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwWODUFnQABm5vdGlmeXNxAH4ADC0/and0AAR3YWl0c3EAfgAM0YBiBHQADSRhc0luc3RhbmNlT2ZzcQB+AAzmJUkidAAMcHJvZHVjdEFyaXR5c3EAfgAMxUb7g3QABmVxdWFsc3NxAH4ADN7MXl50AAhHcmVldGluZ3NxAH4ADLtkXy90AAxhc0luc3RhbmNlT2ZzcQB+AAyWV3XxdAAMc3luY2hyb25pemVkc3EAfgAMkDmNOnQADSRpc0luc3RhbmNlT2ZzcQB+AAzs/s26dAAIY2FuRXF1YWxzcQB+AAzJbKefdAANcHJvZHVjdFByZWZpeHNxAH4ADFEtxCB0AAlub3RpZnlBbGxzcQB+AAw7gcvwdAAMaXNJbnN0YW5jZU9mc3EAfgAMZGP+I3QABjxpbml0PnNxAH4ADB3rs3Z0AAI9PXNxAH4ADBrCD9t0AAVjbG9uZXNxAH4ADJsbTgx0AAYkaW5pdCRzcQB+AAzwtlyrdAAHTWVzc2FnZXNxAH4ADHIMV9R0AARjb3B5c3EAfgAMa4WWAHQAB21lc3NhZ2VzcQB+AAwLXmYfdAAIdG9TdHJpbmdzcQB+AAw+h4lBdAACIT1zcQB+AAzznIZFdAAIZ2V0Q2xhc3NzcQB+AAydreGJdAAOY29weSRkZWZhdWx0JDFzcQB+AAwnbANMdAACbmVzcQB+AAxxMJfQdAACZXFzcQB+AAxWPrCwdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMDTPcAHQAAiMjc3EAfgAMCzeyfnQACGZpbmFsaXplc3EAfgAMnVoToXQADnByb2R1Y3RFbGVtZW50c3EAfgAMiqztg3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwCXEAfgAxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBxc3EAfgBsdXEAfgBQAAAAAHNxAH4AbHVxAH4AUAAAAABzcQB+AGx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIpzcQB+AH10AANBbnlzcQB+AIFzcQB+AIR1cQB+AIcAAAACc3EAfgCJdAAFc2NhbGFxAH4AkHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AGXVxAH4AZAAAAAB+cQB+AGZ0AAhDbGFzc0RlZnVxAH4AagAAAABzcQB+AGxxAH4AcnNxAH4AbHNxAH4AdHNxAH4AbHVxAH4AUAAAAABzcQB+AGx1cQB+AFAAAAAAc3EAfgBsdXEAfgB7AAAAB3NxAH4AfXQADFNlcmlhbGl6YWJsZXNxAH4AgXNxAH4AhHVxAH4AhwAAAAJzcQB+AIlxAH4Al3EAfgCQc3EAfgB9cQB+AKlzcQB+AIFzcQB+AIR1cQB+AIcAAAADc3EAfgCJcQB+AIxzcQB+AIl0AAJpb3EAfgCQc3EAfgB9dAAHUHJvZHVjdHEAfgCqc3EAfgB9dAAGRXF1YWxzcQB+AKpzcQB+AH10AAdNZXNzYWdlc3EAfgCBc3EAfgCEdXEAfgCHAAAAAXEAfgCQc3EAfgB9cQB+AIBzcQB+AIFzcQB+AIR1cQB+AIcAAAADc3EAfgCJcQB+AIxzcQB+AIlxAH4AjnEAfgCQc3EAfgB9cQB+AJJxAH4AqnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcx3xI/XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AENDOlxVc2Vyc1x5YXNzZVxTY2FsYUFwcHNcQWtrYVNpbXBsZUFjdG9yc1x0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUEUkLDnhhYKYnNs5W9I5f7S+QYDI=
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlRePawAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsC6IJnQABm5vdGlmeXNxAH4ADLlq9990AAR3YWl0c3EAfgAMbMT4lXQADSRhc0luc3RhbmNlT2ZzcQB+AAwFDA3RdAAGc3lzdGVtc3EAfgAMY34RgXQABmVxdWFsc3NxAH4ADJhSWjx0AAZob3Jkb3JzcQB+AAymh5u8dAAMYXNJbnN0YW5jZU9mc3EAfgAMQRmkhHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMxhCqg3QADHN5bmNocm9uaXplZHNxAH4ADBgP3EN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMfl5+znQABG1haW5zcQB+AAxkTtF6dAAJbm90aWZ5QWxsc3EAfgAMzyWs7nQADGlzSW5zdGFuY2VPZnNxAH4ADIzscq90AAI9PXNxAH4ADMchBIN0AAVjbG9uZXNxAH4ADBPg+fB0AAYkaW5pdCRzcQB+AAwn5BPidAALU2ltcGxlQWN0b3JzcQB+AAy9Blf3dAAIdG9TdHJpbmdzcQB+AAwdde5jdAAEYXJnc3NxAH4ADAWUhdF0AAIhPXNxAH4ADKvrDF10AAhnZXRDbGFzc3NxAH4ADHM2U7N0AAJuZXNxAH4ADOQYhzF0AAJlcXNxAH4ADGciig50AAtkZWxheWVkSW5pdHNxAH4ADLNECfd0AAIjI3NxAH4ADCj/p3d0AAhmaW5hbGl6ZXNxAH4ADNqVAzN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AL3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGtzcQB+AGZ1cQB+AEgAAAAAc3EAfgBmdXEAfgBIAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBOcQB+AFd1cQB+AFgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB1eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3NxAH4AWgBxAH4AI3VxAH4AXAAAAABzcQB+AIJ0AARVbml0cQB+AIh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB1eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBfdAAFUGxhaW5xAH4AM3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ag1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AanNxAH4AgnQABUFycmF5cQB+AIh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgnQABlN0cmluZ3NxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI50AARqYXZhc3EAfgCOdAAEbGFuZ3EAfgCTc3EAfgBmdXEAfgCqAAAABHNxAH4AgnQAA0FwcHEAfgCIc3EAfgCCdAALRGVsYXllZEluaXRxAH4AiHNxAH4AgnQABk9iamVjdHEAfgCuc3EAfgCCdAADQW55cQB+AIh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMd8SP11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDQzpcVXNlcnNceWFzc2VcU2NhbGFBcHBzXEFra2FTaW1wbGVBY3RvcnNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFML2ltUIUW73Gmek0gEjNSGBkk14
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala -> 
+AAAAAAAAAAA=
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Messages.scala -> 
+AAAAAAAAAAA=
+C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMdzVlZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0M6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thU2ltcGxlQWN0b3JzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMd8SP11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0M6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thU2ltcGxlQWN0b3JzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv

@@ -1,0 +1,9 @@
+import akka.actor.ActorSystem
+
+
+object Hello extends App {
+
+	println("Hello Ping Pong")
+
+}
+

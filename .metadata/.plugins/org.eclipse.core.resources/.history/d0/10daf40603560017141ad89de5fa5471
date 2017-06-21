@@ -1,0 +1,13 @@
+import akka.actor._
+
+class Arya extends Actor{
+  
+  def receive = {
+    
+    case Greeting(m) =>     
+      sender ! s"$m to you too ${sender.path.name}"
+    
+    
+  }
+  
+}

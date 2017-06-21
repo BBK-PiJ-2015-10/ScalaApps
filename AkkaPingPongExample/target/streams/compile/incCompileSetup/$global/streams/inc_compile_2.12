@@ -1,0 +1,195 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Ping$$anonfun$receive$1.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Ping.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingMessage$.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingMessage.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingPongRunner$.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingPongRunner$delayedInit$body.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingPongRunner.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Pong$$anonfun$receive$2.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Pong.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PongMessage$.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PongMessage.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StartMessage$.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StartMessage.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StopMessage$.class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StopMessage.class
+binary dependencies:
+3 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Ping
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Ping$$anonfun$receive$1
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PingMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PingMessage$
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PingPongRunner
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PingPongRunner$
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PingPongRunner$delayedInit$body
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Pong
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Pong$$anonfun$receive$2
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PongMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PongMessage$
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> StartMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> StartMessage$
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> StopMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> StopMessage$
+used names:
+70 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> !
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> +
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> <byname>
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ==
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> >
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> A1
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> AbstractPartialFunction
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Actor
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ActorContext
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ActorRef
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ActorSystem
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> App
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> B1
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Boolean
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Class
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ClassTag
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Function1
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> IndexOutOfBoundsException
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Int
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Iterator
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Ping
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PingMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PingPongRunner
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Pong
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> PongMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Product
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Props
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ScalaActorRef
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ScalaRunTime
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Serializable
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> StartMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> StopMessage
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> String
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> T
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> T0
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> Unit
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> _$7
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> actor
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> actorOf
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> actorRef2Scala
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> akka
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> apply
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> asInstanceOf
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> context
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> count
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> count_=
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> incrementAndPrint
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> materializeClassTag
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> package
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> ping
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> pong
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> println
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> qual$1
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> reflect
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> runtime
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> self
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> sender
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> stop
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> system
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> toString
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> typedProductIterator
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> unchecked
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> x$1
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> x$2
+product stamps:
+15 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Ping$$anonfun$receive$1.class -> lastModified(1497835045393)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Ping.class -> lastModified(1497835045390)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingMessage$.class -> lastModified(1497835045379)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingMessage.class -> lastModified(1497835045378)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingPongRunner$.class -> lastModified(1497835045393)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingPongRunner$delayedInit$body.class -> lastModified(1497835045395)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PingPongRunner.class -> lastModified(1497835045392)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Pong$$anonfun$receive$2.class -> lastModified(1497835045394)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\Pong.class -> lastModified(1497835045390)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PongMessage$.class -> lastModified(1497835045385)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\PongMessage.class -> lastModified(1497835045384)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StartMessage$.class -> lastModified(1497835045387)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StartMessage.class -> lastModified(1497835045386)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StopMessage$.class -> lastModified(1497835045389)
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\target\scala-2.12\classes\StopMessage.class -> lastModified(1497835045388)
+source stamps:
+1 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> hash(932a6032e7b2173311a0b7ef39cd84effb056596)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> lastModified(1497445620416)
+C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar -> lastModified(1495619304000)
+C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> java.lang.Object
+C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar -> akka.actor.Actor
+C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.Serializable
+internal apis:
+1 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuW7D7wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBU3WRidAAEc2VsZnNxAH4AC7uaQ7B0AAdjb250ZXh0dXEAfgAJAAAAOHNxAH4AC2w0j4R0AAZub3RpZnlzcQB+AAvR4uF8dAAHUmVjZWl2ZXNxAH4ACxDCbSF0AAVjb3VudHNxAH4AC4pmjEt0AA5QaW5nUG9uZ1J1bm5lcnNxAH4AC5/WygF0AAtQaW5nTWVzc2FnZXNxAH4AC6ua5cN0AAR3YWl0c3EAfgALNZzEUHQADSRhc0luc3RhbmNlT2ZzcQB+AAu8EQKddAAGc3lzdGVtc3EAfgALGH+MmnQADHByb2R1Y3RBcml0eXNxAH4ACzc+AAZ0AAZlcXVhbHNzcQB+AAt5VucjdAALUG9uZ01lc3NhZ2VzcQB+AAuxrY+XdAAMYXNJbnN0YW5jZU9mc3EAfgAL5sFdCHQADmV4ZWN1dGlvblN0YXJ0c3EAfgALeOzw6HQADHN5bmNocm9uaXplZHNxAH4ACxnaKWV0AA0kaXNJbnN0YW5jZU9mc3EAfgAL9KAlpXQAB3JlY2VpdmVzcQB+AAuhEumDdAAKcHJlUmVzdGFydHNxAH4ACzxF6YJ0AA1hcm91bmRSZWNlaXZlc3EAfgALtwge3nQACGNhbkVxdWFsc3EAfgALrvFNJnQAC3Bvc3RSZXN0YXJ0c3EAfgALsQXd9HQABG1haW5zcQB+AAsbHpgtdAAIcG9zdFN0b3BzcQB+AAsNwEqDdAANcHJvZHVjdFByZWZpeHNxAH4AC8x8Yol0AAlub3RpZnlBbGxzcQB+AAtRyCENdAARaW5jcmVtZW50QW5kUHJpbnRzcQB+AAtbu4hKdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAuLoPibdAAMaXNJbnN0YW5jZU9mc3EAfgALZN9593QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAshtsWLdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuBkBaQdAAEcGluZ3NxAH4AC+DESv10AAxTdGFydE1lc3NhZ2VzcQB+AAuLBcEBdAAGPGluaXQ+c3EAfgALPGJDiHQACHByZVN0YXJ0c3EAfgALIKFXynQACXVuaGFuZGxlZHNxAH4AC0yDTVJ0AARQb25nc3EAfgALlGiXYXQAAj09c3EAfgALdNja5XQABWNsb25lc3EAfgALNxh/rnQAC1N0b3BNZXNzYWdlc3EAfgALrak7/XQABiRpbml0JHNxAH4AC1MON5R0AAZzZW5kZXJzcQB+AAs1MJvJdAAIdG9TdHJpbmdzcQB+AAtrfmSvdAAEYXJnc3NxAH4AC58XY0F0AAIhPXNxAH4AC0N1VM50AAhnZXRDbGFzc3NxAH4AC3x4aIV0AARwb25nc3EAfgALeQxNB3QAAm5lc3EAfgAL5PIz2XQABFBpbmdzcQB+AAsMqahVdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALjuLTPXQAAmVxc3EAfgAL9QIHeHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC2Mhsap0AAtkZWxheWVkSW5pdHNxAH4ACwGDf210AAIjI3NxAH4ACybZ7aF0AAhmaW5hbGl6ZXNxAH4AC1IFvvJ0AA5wcm9kdWN0RWxlbWVudHNxAH4AC+HaNKZ0AAhoYXNoQ29kZXNxAH4ACwGjq/90AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAdzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3R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xAH4AonNxAH4AqnNxAH4AonVxAH4AhgAAAABzcQB+AKJ1cQB+AIYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIxxAH4AlXVxAH4AlgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AZx4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgCzdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ALdzcQB+ALp1cQB+AL0AAAACc3EAfgC/cQB+AMJxAH4AxHNxAH4AmABxAH4AO3VxAH4AmgAAAABzcQB+ALN0AARVbml0cQB+Aat1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgGceHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCddAAFUGxhaW5xAH4AZXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AtFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ApnNxAH4As3QABUFycmF5cQB+Aat1cQB+ALEAAAABc3EAfgCzdAAGU3RyaW5nc3EAfgC3c3EAfgC6dXEAfgC9AAAAA3NxAH4Av3EAfgDKc3EAfgC/cQB+ANhxAH4AxHNxAH4AonVxAH4AsQAAAARzcQB+ALN0AANBcHBxAH4Bq3NxAH4As3QAC0RlbGF5ZWRJbml0cQB+AatzcQB+ALNxAH4A0nEAfgHIc3EAfgCzcQB+ANpxAH4Bq3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcvezw13VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEZDOlxVc2Vyc1x5YXNzZVxTY2FsYUFwcHNcQWtrYVBpbmdQb25nRXhhbXBsZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUkypgMueyFzMRoLfvOc2E7/sFZZY=
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\yasse\ScalaApps\AkkaPingPongExample\src\main\scala\Ping.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3bXJl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUGluZ1BvbmdFeGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3hiTJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUGluZ1BvbmdFeGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3h9Hh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUGluZ1BvbmdFeGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3iGIF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUGluZ1BvbmdFeGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3qSwl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUGluZ1BvbmdFeGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL3s8Nd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUGluZ1BvbmdFeGFtcGxlXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv

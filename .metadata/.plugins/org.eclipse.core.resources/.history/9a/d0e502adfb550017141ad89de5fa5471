@@ -1,0 +1,10 @@
+import akka.actor._
+
+
+object Pi extends App {
+  
+  calculate(nrOfWorkers = 20, nrOfElements = 1000000, nrOfMessage = 1000000)
+  
+  
+  
+}

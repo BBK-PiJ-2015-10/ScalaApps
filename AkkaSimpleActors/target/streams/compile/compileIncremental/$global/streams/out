@@ -1,0 +1,48 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala, C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala, C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala, C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala, C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1626f950, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes;C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\yasse\ScalaApps\AkkaSimpleActors\target\scala-2.12\classes;C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar;C:\Users\yasse\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar;C:\Users\yasse\.ivy2\cache\org.scala-lang.modules\scala-java8-compat_2.12\bundles\scala-java8-compat_2.12-0.8.0.jar;C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-testkit_2.12\jars\akka-testkit_2.12-2.5.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.133555011 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\Hordor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	log, Hordor.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala: Set(Hordor)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\yasse\ScalaApps\AkkaSimpleActors\src\main\scala\SimpleActor.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	hordor, system.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

@@ -1,0 +1,10 @@
+build
+update
+sbt
+ext
+exit
+eclipse
+update
+compile
+update
+run
