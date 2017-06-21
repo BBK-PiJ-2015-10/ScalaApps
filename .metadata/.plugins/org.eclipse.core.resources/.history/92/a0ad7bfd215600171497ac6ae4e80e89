@@ -1,0 +1,8 @@
+import akka.actor._
+import CoffeeProtocol._
+
+class CoffeeShop extends FSM[State,Data] {
+  
+  
+  
+}

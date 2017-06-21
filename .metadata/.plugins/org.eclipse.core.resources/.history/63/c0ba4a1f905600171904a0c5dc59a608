@@ -1,0 +1,18 @@
+import akka.actor._
+
+trait Creator extends Actor with ActorLogging {
+  
+  //bad approach, just useful for illustration
+  var children: Vector[ActorRef] = Vector()
+  
+  //creates a child and watches over it
+  def create(name: String) = {
+    val child = context.actorOf(Props[Youngling],name)
+    context.watch(child)
+  }
+  
+  
+  
+  
+  
+}

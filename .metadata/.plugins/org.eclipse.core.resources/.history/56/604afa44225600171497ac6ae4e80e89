@@ -1,0 +1,9 @@
+import akka.actor._
+import CoffeeProtocol._
+//import CoffeeProtocol.Closed
+
+class CoffeeShop extends FSM[State,Data] {
+  
+  startWith(Closed,Unitialized)
+  
+}
