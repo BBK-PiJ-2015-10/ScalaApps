@@ -1,0 +1,12 @@
+package integral
+
+
+import akka.actor._
+import akka.routing._
+import scala.math._
+
+class Initializer(workers: Int, samples: Int, iterations: Int, finalizer: ActorRef) extends Actor {
+  
+  
+  
+}

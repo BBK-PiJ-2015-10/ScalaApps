@@ -10,7 +10,7 @@ class Arya extends Actor with ActorLogging {
     
     case x =>
       log.info(s"Got $x from ${sender.path.name}")
-      println("Winter IS comoming, Arya got something that is not a Greeting!!")
+      println("Winter IS comoming, Arya got something that is not a Greeting in this remote mode!!")
       
   }
   

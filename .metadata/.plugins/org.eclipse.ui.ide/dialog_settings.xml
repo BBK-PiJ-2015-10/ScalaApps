@@ -9,6 +9,10 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\yasse\ScalaApps\AkkaIntegratorsActors"/>
+			<item value="C:\Users\yasse\ScalaApps\AkkaSimpleMessaging"/>
+			<item value="C:\Users\yasse\ScalaApps\AkkaRemoteActors"/>
+			<item value="C:\Users\yasse\ScalaApps\AkkaSupervisingActors"/>
 			<item value="C:\Users\yasse\ScalaApps\AkkaStatefulActors"/>
 			<item value="C:\Users\yasse\ScalaApps\AkkaSimpleActors"/>
 			<item value="C:\Users\yasse\ScalaApps\AkkaPI"/>

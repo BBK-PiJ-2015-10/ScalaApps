@@ -1,4 +1,5 @@
 import akka.actor._
+import akka.actor.actorRef2Scala
 
 
 object Pi extends App {

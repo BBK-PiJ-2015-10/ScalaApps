@@ -1,0 +1,378 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Arya$$anonfun$receive$1.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Arya.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\GrumpyImp$$anonfun$receive$1.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\GrumpyImp.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Hordor$$anonfun$receive$1.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Hordor.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Greeting$.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Greeting.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Message.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\RemoteActorApp$.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\RemoteActorApp$delayedInit$body.class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\RemoteActorApp.class
+binary dependencies:
+15 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Arya
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Arya$$anonfun$receive$1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> GrumpyImp
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> GrumpyImp$$anonfun$receive$1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Hordor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Hordor$$anonfun$receive$1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Greeting$
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Message
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> RemoteActorApp
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> RemoteActorApp$
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> RemoteActorApp$delayedInit$body
+used names:
+226 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> !
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> <repeated>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> A1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> AbstractPartialFunction
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> ActorLogging
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> ActorPath
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> ActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Arya
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> B1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Boolean
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Function1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> LoggingAdapter
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> ScalaActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> String
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> StringContext
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> T0
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> Unit
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> actorRef2Scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> akka
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> asInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> info
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> isInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> log
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> m
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> message
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> name
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> package
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> path
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> println
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> s
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> self
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> sender
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> unchecked
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> !
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> <repeated>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> A1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> AbstractPartialFunction
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> ActorLogging
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> ActorPath
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> ActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> B1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Boolean
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Function1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> GrumpyImp
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> LoggingAdapter
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> ScalaActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> String
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> StringContext
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> T0
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> Unit
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> actorRef2Scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> akka
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> asInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> info
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> isInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> log
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> m
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> message
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> name
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> package
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> path
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> s
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> self
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> sender
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> unchecked
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> !
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> <repeated>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> A1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> AbstractPartialFunction
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> ActorLogging
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> ActorPath
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> ActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> B1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Boolean
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Function1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Hordor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> LoggingAdapter
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Long
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> ScalaActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> String
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> StringContext
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> T0
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Thread
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> Unit
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> actorRef2Scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> akka
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> asInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> info
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> isInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> java
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> lang
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> log
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> m
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> message
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> name
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> package
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> path
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> println
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> s
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> self
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> sender
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> sleep
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> unchecked
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> warning
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> &&
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> ==
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> A
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> AbstractFunction1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> AnyRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Boolean
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> IndexOutOfBoundsException
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Int
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Iterator
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Message
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> None
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Option
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Product
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> ScalaRunTime
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Serializable
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> Some
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> String
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> T
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> T0
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> _hashCode
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> _root_
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> _toString
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> asInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> eq
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> isInstanceOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> message
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> package
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> runtime
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> toString
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> typedProductIterator
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> ||
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> !
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> <init>
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> ActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> ActorSystem
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Any
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> App
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Arya
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Class
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> ClassTag
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Config
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> ConfigFactory
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Future
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Greeting
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> GrumpyImp
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Hordor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Nothing
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Object
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> PoisonPill
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Predef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Props
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> RemoteActorApp
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> ScalaActorRef
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> String
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> T
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Terminated
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> Unit
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> _$7
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> actor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> actorOf
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> actorRef2Scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> akka
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> apply
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> arya
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> com
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> config
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> getConfig
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> hordor
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> load
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> materializeClassTag
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> package
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> qual$1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> qual$2
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> qual$3
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> reflect
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> scala
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> system
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> tell
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> terminate
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> typesafe
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> tyrion
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> x$1
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> x$2
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> x$3
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> x$4
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> x$5
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> x$6
+product stamps:
+12 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Arya$$anonfun$receive$1.class -> lastModified(1498065651435)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Arya.class -> lastModified(1498065651434)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Greeting$.class -> lastModified(1498065651445)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Greeting.class -> lastModified(1498065651444)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\GrumpyImp$$anonfun$receive$1.class -> lastModified(1498065651440)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\GrumpyImp.class -> lastModified(1498065651439)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Hordor$$anonfun$receive$1.class -> lastModified(1498065651442)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Hordor.class -> lastModified(1498065651441)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\Message.class -> lastModified(1498065651443)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\RemoteActorApp$.class -> lastModified(1498065651447)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\RemoteActorApp$delayedInit$body.class -> lastModified(1498065651448)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\target\scala-2.12\classes\RemoteActorApp.class -> lastModified(1498065651446)
+source stamps:
+5 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> hash(84e206cb92e77efca5a6788a856525d323077d30)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> hash(628e598699701eb6b7257ca04fe8b62eac050631)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> hash(fb55a4bbe0255b1f27d57757dcf20ca3eea7afef)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> hash(11490b0e786160a62736ce56f48e5fed2f906032)
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> hash(052e8720c23469cf64ce8c19700d262ec0b8d1f2)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> lastModified(1497445620416)
+C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar -> lastModified(1495619304000)
+C:\Users\yasse\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar -> lastModified(1474721599000)
+C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> java.lang.Object
+C:\Users\yasse\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.2.jar -> akka.actor.Props
+C:\Users\yasse\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar -> com.typesafe.config.Config
+C:\Users\yasse\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.App
+internal apis:
+5 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7kJyNgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDC4sXPdAAEc2VsZnNxAH4ACykFIVR0AAdjb250ZXh0dXEAfgAJAAAAJXNxAH4AC2yI+KJ0AAZub3RpZnlzcQB+AAvZMp+DdAAHUmVjZWl2ZXNxAH4AC5ye89x0AAR3YWl0c3EAfgALRZ9G2nQADSRhc0luc3RhbmNlT2ZzcQB+AAvSNqZldAAGZXF1YWxzc3EAfgALvDRLYnQADGFzSW5zdGFuY2VPZnNxAH4AC3YmGjV0AAxzeW5jaHJvbml6ZWRzcQB+AAtfGaYgdAANJGlzSW5zdGFuY2VPZnNxAH4AC5rm6ml0AAdyZWNlaXZlc3EAfgAL31cj9HQACnByZVJlc3RhcnRzcQB+AAsufTFbdAANYXJvdW5kUmVjZWl2ZXNxAH4ACwtWZcB0AAtwb3N0UmVzdGFydHNxAH4AC4MW1Fp0AAhwb3N0U3RvcHNxAH4AC9rYoQd0AARBcnlhc3EAfgALQOA+3nQACW5vdGlmeUFsbHNxAH4AC7tsM2R0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC/H3mWt0AAxpc0luc3RhbmNlT2ZzcQB+AAsCcEzDdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC9Cjihh0AA5hcm91bmRQb3N0U3RvcHNxAH4AC+Y2cCt0AAY8aW5pdD5zcQB+AAu8rB4BdAAIcHJlU3RhcnRzcQB+AAtGfeS2dAAJdW5oYW5kbGVkc3EAfgALTHEdPHQAAj09c3EAfgALaNY7f3QABWNsb25lc3EAfgALlrvL1HQABiRpbml0JHNxAH4AC6LOi7B0AAZzZW5kZXJzcQB+AAt0R0qIdAAIdG9TdHJpbmdzcQB+AAv+yUMPdAACIT1zcQB+AAtbtTK8dAAIZ2V0Q2xhc3NzcQB+AAvT138bdAACbmVzcQB+AAs8kVtodAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALqZ1lGXQAAmVxc3EAfgALOhRl/nQAA2xvZ3NxAH4AC2omf7x0AAIjI3NxAH4AC87/j7B0AAhmaW5hbGl6ZXNxAH4AC/CFv2F0AAhoYXNoQ29kZXNxAH4AC7PnNNp0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4ALXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AgXNxAH4AfHVxAH4AYAAAAABzcQB+AHx1cQB+AGAAAAAAc3EAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCAdAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCAc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCZdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmnNxAH4AjXQABUFjdG9ycQB+AJNzcQB+AI10AAZPYmplY3RzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZdAAEamF2YXNxAH4AmXQABGxhbmdxAH4AoHNxAH4AjXQAA0FueXNxAH4AkXNxAH4AlHVxAH4AlwAAAAJzcQB+AJl0AAVzY2FsYXEAfgCgdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVzLq7O9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQ0M6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUmVtb3RlQWN0b3JzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSE4gbLkud+/KWmeIqFZSXTIwd9MA==
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcsMtuQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAUbTjDdAAEc2VsZnNxAH4AC56obAV0AAdjb250ZXh0dXEAfgAJAAAAJXNxAH4AC8M4nfV0AAZub3RpZnlzcQB+AAsGqEcydAAHUmVjZWl2ZXNxAH4AC4pLMCh0AAR3YWl0c3EAfgALZhrdInQADSRhc0luc3RhbmNlT2ZzcQB+AAtrDpyFdAAGZXF1YWxzc3EAfgALkUqi9nQADGFzSW5zdGFuY2VPZnNxAH4ACxMfvDJ0AAxzeW5jaHJvbml6ZWRzcQB+AAtTenBOdAANJGlzSW5zdGFuY2VPZnNxAH4AC8jQWZx0AAlHcnVtcHlJbXBzcQB+AAso3ax1dAAHcmVjZWl2ZXNxAH4AC5FF8/B0AApwcmVSZXN0YXJ0c3EAfgALDpFTUXQADWFyb3VuZFJlY2VpdmVzcQB+AAtva7lwdAALcG9zdFJlc3RhcnRzcQB+AAtfvxOSdAAIcG9zdFN0b3BzcQB+AAvvaus9dAAJbm90aWZ5QWxsc3EAfgALevATZ3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALXpiKyHQADGlzSW5zdGFuY2VPZnNxAH4AC7iq70N0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALz+qh2HQADmFyb3VuZFBvc3RTdG9wc3EAfgALKkMwb3QABjxpbml0PnNxAH4AC/y8nsF0AAhwcmVTdGFydHNxAH4AC6aHoXR0AAl1bmhhbmRsZWRzcQB+AAundXmfdAACPT1zcQB+AAt9kQC2dAAFY2xvbmVzcQB+AAveJyOZdAAGJGluaXQkc3EAfgALvM4O0XQABnNlbmRlcnNxAH4ACw0H11t0AAh0b1N0cmluZ3NxAH4AC14keVd0AAIhPXNxAH4AC9mtvZh0AAhnZXRDbGFzc3NxAH4AC7k2ShR0AAJuZXNxAH4AC6SKnfd0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuSOcJFdAACZXFzcQB+AAuHOPk3dAADbG9nc3EAfgALWo43tnQAAiMjc3EAfgALLSZcB3QACGZpbmFsaXplc3EAfgALGW4yGXQACGhhc2hDb2Rlc3EAfgALrqNkoXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCBc3EAfgB8dXEAfgBgAAAAAHNxAH4AfHVxAH4AYAAAAABzcQB+AHx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIB0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJl0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAAFQWN0b3JxAH4Ak3NxAH4AjXQABk9iamVjdHNxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJl0AARqYXZhc3EAfgCZdAAEbGFuZ3EAfgCgc3EAfgCNdAADQW55c3EAfgCRc3EAfgCUdXEAfgCXAAAAAnNxAH4AmXQABXNjYWxhcQB+AKB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMurs711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABDQzpcVXNlcnNceWFzc2VcU2NhbGFBcHBzXEFra2FSZW1vdGVBY3RvcnNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGKOWYaZcB62tyV8oE/oti6sBQYx
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlLZcOQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBsdwoudAAEc2VsZnNxAH4AC/2W1250AAdjb250ZXh0dXEAfgAJAAAAJXNxAH4AC93KmzJ0AAZub3RpZnlzcQB+AAv2fnHydAAHUmVjZWl2ZXNxAH4ACyfN+LR0AAR3YWl0c3EAfgALammG4XQADSRhc0luc3RhbmNlT2ZzcQB+AAsjXcAAdAAGZXF1YWxzc3EAfgALj/lIcnQADGFzSW5zdGFuY2VPZnNxAH4AC39zzEx0AAxzeW5jaHJvbml6ZWRzcQB+AAtUVQrMdAANJGlzSW5zdGFuY2VPZnNxAH4AC0M2OR90AAdyZWNlaXZlc3EAfgALwxxBwXQACnByZVJlc3RhcnRzcQB+AAuyG03IdAANYXJvdW5kUmVjZWl2ZXNxAH4AC2LrFM90AAtwb3N0UmVzdGFydHNxAH4ACxSiYhJ0AAhwb3N0U3RvcHNxAH4ACyJD6pV0AAlub3RpZnlBbGxzcQB+AAs0vrYTdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAtrGKhvdAAMaXNJbnN0YW5jZU9mc3EAfgALY3Q5Q3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAvjqPvRdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuAIBkDdAAGPGluaXQ+c3EAfgALxnMXK3QACHByZVN0YXJ0c3EAfgALHhitm3QACXVuaGFuZGxlZHNxAH4AC25kO/50AAI9PXNxAH4AC6EfMul0AAVjbG9uZXNxAH4AC9FxCY10AAYkaW5pdCRzcQB+AAvIRiXXdAAGc2VuZGVyc3EAfgALsVTs9nQACHRvU3RyaW5nc3EAfgAL/b5VGXQAAiE9c3EAfgALdMR3dHQACGdldENsYXNzc3EAfgALNtYobXQAAm5lc3EAfgALSDA0InQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC5jhC9h0AAJlcXNxAH4AC9Rd/y10AANsb2dzcQB+AAuvtKaidAACIyNzcQB+AAuGrmvydAAIZmluYWxpemVzcQB+AAsRK+VUdAAIaGFzaENvZGVzcQB+AAu0/9ZpdAAGSG9yZG9yc3EAfgALSavdFXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCBc3EAfgB8dXEAfgBgAAAAAHNxAH4AfHVxAH4AYAAAAABzcQB+AHx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIB0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJl0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAAFQWN0b3JxAH4Ak3NxAH4AjXQABk9iamVjdHNxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJl0AARqYXZhc3EAfgCZdAAEbGFuZ3EAfgCgc3EAfgCNdAADQW55c3EAfgCRc3EAfgCUdXEAfgCXAAAAAnNxAH4AmXQABXNjYWxhcQB+AKB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMurs711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABDQzpcVXNlcnNceWFzc2VcU2NhbGFBcHBzXEFra2FSZW1vdGVBY3RvcnNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPtVpLvgJVsfJ9V3V9zyDKPup6/v
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLMsD8QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwWODUFnQABm5vdGlmeXNxAH4ADC0/and0AAR3YWl0c3EAfgAM0YBiBHQADSRhc0luc3RhbmNlT2ZzcQB+AAzmJUkidAAMcHJvZHVjdEFyaXR5c3EAfgAMxUb7g3QABmVxdWFsc3NxAH4ADN7MXl50AAhHcmVldGluZ3NxAH4ADLtkXy90AAxhc0luc3RhbmNlT2ZzcQB+AAyWV3XxdAAMc3luY2hyb25pemVkc3EAfgAMkDmNOnQADSRpc0luc3RhbmNlT2ZzcQB+AAzs/s26dAAIY2FuRXF1YWxzcQB+AAzJbKefdAANcHJvZHVjdFByZWZpeHNxAH4ADFEtxCB0AAlub3RpZnlBbGxzcQB+AAw7gcvwdAAMaXNJbnN0YW5jZU9mc3EAfgAMZGP+I3QABjxpbml0PnNxAH4ADB3rs3Z0AAI9PXNxAH4ADBrCD9t0AAVjbG9uZXNxAH4ADJsbTgx0AAYkaW5pdCRzcQB+AAzwtlyrdAAHTWVzc2FnZXNxAH4ADHIMV9R0AARjb3B5c3EAfgAMa4WWAHQAB21lc3NhZ2VzcQB+AAwLXmYfdAAIdG9TdHJpbmdzcQB+AAw+h4lBdAACIT1zcQB+AAzznIZFdAAIZ2V0Q2xhc3NzcQB+AAydreGJdAAOY29weSRkZWZhdWx0JDFzcQB+AAwnbANMdAACbmVzcQB+AAxxMJfQdAACZXFzcQB+AAxWPrCwdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMDTPcAHQAAiMjc3EAfgAMCzeyfnQACGZpbmFsaXplc3EAfgAMnVoToXQADnByb2R1Y3RFbGVtZW50c3EAfgAMiqztg3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwCXEAfgAxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBxc3EAfgBsdXEAfgBQAAAAAHNxAH4AbHVxAH4AUAAAAABzcQB+AGx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIpzcQB+AH10AANBbnlzcQB+AIFzcQB+AIR1cQB+AIcAAAACc3EAfgCJdAAFc2NhbGFxAH4AkHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AGXVxAH4AZAAAAAB+cQB+AGZ0AAhDbGFzc0RlZnVxAH4AagAAAABzcQB+AGxxAH4AcnNxAH4AbHNxAH4AdHNxAH4AbHVxAH4AUAAAAABzcQB+AGx1cQB+AFAAAAAAc3EAfgBsdXEAfgB7AAAAB3NxAH4AfXQADFNlcmlhbGl6YWJsZXNxAH4AgXNxAH4AhHVxAH4AhwAAAAJzcQB+AIlxAH4Al3EAfgCQc3EAfgB9cQB+AKlzcQB+AIFzcQB+AIR1cQB+AIcAAAADc3EAfgCJcQB+AIxzcQB+AIl0AAJpb3EAfgCQc3EAfgB9dAAHUHJvZHVjdHEAfgCqc3EAfgB9dAAGRXF1YWxzcQB+AKpzcQB+AH10AAdNZXNzYWdlc3EAfgCBc3EAfgCEdXEAfgCHAAAAAXEAfgCQc3EAfgB9cQB+AIBzcQB+AIFzcQB+AIR1cQB+AIcAAAADc3EAfgCJcQB+AIxzcQB+AIlxAH4AjnEAfgCQc3EAfgB9cQB+AJJxAH4AqnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcy6uzvXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AENDOlxVc2Vyc1x5YXNzZVxTY2FsYUFwcHNcQWtrYVJlbW90ZUFjdG9yc1x0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUEUkLDnhhYKYnNs5W9I5f7S+QYDI=
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCwM9tgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvcW1GnQABm5vdGlmeXNxAH4ADKIhFYV0AA5SZW1vdGVBY3RvckFwcHNxAH4ADHDeDyZ0AAR3YWl0c3EAfgAMvKo3NHQADSRhc0luc3RhbmNlT2ZzcQB+AAy1hR+udAAGc3lzdGVtc3EAfgAMSdkEj3QABmVxdWFsc3NxAH4ADBkAqKx0AAZob3Jkb3JzcQB+AAxWN/GcdAAMYXNJbnN0YW5jZU9mc3EAfgAM0p8BoHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAM94Gug3QADHN5bmNocm9uaXplZHNxAH4ADCyapQt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMYVI1AXQABG1haW5zcQB+AAwGtuOKdAAGdHlyaW9uc3EAfgAM/qP3QHQACW5vdGlmeUFsbHNxAH4ADEh6fFp0AAxpc0luc3RhbmNlT2ZzcQB+AAy9cBybdAACPT1zcQB+AAyg1YATdAAFY2xvbmVzcQB+AAyEguNadAAGJGluaXQkc3EAfgAMRdnHOHQACHRvU3RyaW5nc3EAfgAM57E1f3QABGFyZ3NzcQB+AAyK/gm9dAACIT1zcQB+AAw3P1tOdAAIZ2V0Q2xhc3NzcQB+AAx4qwASdAACbmVzcQB+AAyveRkjdAACZXFzcQB+AAzIb4addAALZGVsYXllZEluaXRzcQB+AAzI4F7vdAACIyNzcQB+AAz0wsSKdAAIZmluYWxpemVzcQB+AAyLhLtTdAAIaGFzaENvZGVzcQB+AAyITLagdAAEYXJ5YXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AanNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AG9zcQB+AGp1cQB+AEwAAAAAc3EAfgBqdXEAfgBMAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBScQB+AFt1cQB+AFwAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB5eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG50ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ak3NxAH4AXgBxAH4AJXVxAH4AYAAAAABzcQB+AIZ0AARVbml0cQB+AIx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB5eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBjdAAFUGxhaW5xAH4ANXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ah1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbnNxAH4AhnQABUFycmF5cQB+AIx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AhnQABlN0cmluZ3NxAH4AinNxAH4AjXVxAH4AkAAAAANzcQB+AJJ0AARqYXZhc3EAfgCSdAAEbGFuZ3EAfgCXc3EAfgBqdXEAfgCuAAAABHNxAH4AhnQAA0FwcHEAfgCMc3EAfgCGdAALRGVsYXllZEluaXRxAH4AjHNxAH4AhnQABk9iamVjdHEAfgCyc3EAfgCGdAADQW55cQB+AIx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMurs711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDQzpcVXNlcnNceWFzc2VcU2NhbGFBcHBzXEFra2FSZW1vdGVBY3RvcnNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAUuhyDCNGnPZM6MGXANJi7AuNHy
+external apis:
+0 items
+source infos:
+5 items
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Arya.scala -> 
+AAAAAAAAAAA=
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\GrumpyImp.scala -> 
+AAAAAAAAAAA=
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Hordor.scala -> 
+AAAAAAAAAAA=
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\Messages.scala -> 
+AAAAAAAAAAA=
+C:\Users\yasse\ScalaApps\AkkaRemoteActors\src\main\scala\RemoteActorApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMurs711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0M6XFVzZXJzXHlhc3NlXFNjYWxhQXBwc1xBa2thUmVtb3RlQWN0b3JzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv

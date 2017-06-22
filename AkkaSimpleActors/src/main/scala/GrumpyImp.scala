@@ -10,7 +10,7 @@ class GrumpyImp extends Actor with ActorLogging {
     
     case x =>
       sender ! "Wink"
-      log.info(s"Do not speak to me !!! Northern Peasant !!! AKKA ${sender.path.name}")
+      log.info(s"Do not speak to me !!! Northern Remote Peasant !!! AKKA ${sender.path.name}")
     
   }
   

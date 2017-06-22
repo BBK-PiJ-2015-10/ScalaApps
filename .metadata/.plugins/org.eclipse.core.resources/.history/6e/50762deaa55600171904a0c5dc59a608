@@ -1,0 +1,6 @@
+import akka.actor._
+import com.typesafe.config.ConfigFactory
+
+object RemoteActorApp extends App {
+  
+}

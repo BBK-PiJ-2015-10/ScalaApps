@@ -1,0 +1,9 @@
+System {
+	include "common"
+	akka {
+		remote.netty.tcp {
+			#hostname = "73.119.51.237"
+			port = 1095
+		}
+	}
+}

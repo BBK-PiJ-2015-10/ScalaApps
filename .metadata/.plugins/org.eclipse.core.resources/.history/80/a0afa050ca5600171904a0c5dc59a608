@@ -1,0 +1,12 @@
+package logtest
+
+import scala.util.Random
+
+import akka.actor.Actor
+import akka.actor.ActorLogging
+
+import protocols._
+
+class TeacherActor {
+  
+}
