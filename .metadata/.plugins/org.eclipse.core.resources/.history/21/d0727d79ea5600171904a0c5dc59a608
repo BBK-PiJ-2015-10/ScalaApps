@@ -1,7 +1,0 @@
-package integral
-
-object Tester extends App {
-  
-  println("print something monkey")
-  
-}

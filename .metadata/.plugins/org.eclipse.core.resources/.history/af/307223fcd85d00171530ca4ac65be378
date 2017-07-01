@@ -1,0 +1,15 @@
+package practice
+
+import org.apache.spark.SparkConf
+
+
+object TempCalculator {
+  
+  def main (args: Array[String]): Unit = {
+    
+    println("Testing Spark from new computer")
+    
+  }
+  
+  
+}

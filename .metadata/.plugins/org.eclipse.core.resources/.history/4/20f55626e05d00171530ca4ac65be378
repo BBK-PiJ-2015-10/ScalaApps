@@ -1,0 +1,8 @@
+package practice
+
+object LoggerApp extends App {
+  
+  println("Welcome to logger App")
+  
+  
+}

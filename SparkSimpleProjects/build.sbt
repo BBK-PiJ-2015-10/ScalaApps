@@ -1,0 +1,16 @@
+name := "Simple Spark Project Example"
+
+version := "1.0"
+
+organization := "com.palacios"
+
+scalaVersion := "2.11.7"
+
+val sparkVersion = "2.1.1"
+
+resolvers += Resolver.url("repo",url("http://repo.typesafe.com/typesafe/releases/"))
+
+libraryDependencies ++= Seq(
+  "org.apache.spark" %% "spark-core" % sparkVersion,
+  "org.apache.spark" %% "spark-sql" % sparkVersion
+)

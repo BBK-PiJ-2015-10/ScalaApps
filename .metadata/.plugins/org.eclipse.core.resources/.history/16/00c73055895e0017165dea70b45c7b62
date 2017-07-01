@@ -1,0 +1,6 @@
+package models
+
+import play.api.libs.jason.Json
+
+case class Person (name: String)
+

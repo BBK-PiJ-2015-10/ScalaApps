@@ -18405,3 +18405,458 @@ Caused by: java.util.zip.ZipException: invalid END header (bad central directory
 2017-06-22 02:48:47,114  WARN [Worker-194] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
 2017-06-22 02:48:53,915  WARN [Worker-194] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
 2017-06-22 02:48:53,915  WARN [Worker-194] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-06-30 21:01:17,061  WARN [Worker-3] - ScalaProject - Project AkkaStatefulActors has platform default sourceLevel.
+2017-06-30 21:01:17,085  WARN [Worker-3] - ScalaProject - Project AkkaStatefulActors runs on platform default installation.
+2017-06-30 21:01:17,112  WARN [Worker-3] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
+2017-06-30 21:01:17,112  WARN [Worker-3] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-06-30 21:01:17,113  WARN [Worker-3] - ScalaProject - Project AkkaSupervisingActors has platform default sourceLevel.
+2017-06-30 21:01:17,116  WARN [Worker-3] - ScalaProject - Project AkkaSupervisingActors runs on platform default installation.
+2017-06-30 21:01:17,117  WARN [Worker-3] - ScalaProject - Project AkkaRemoteActors has platform default sourceLevel.
+2017-06-30 21:01:17,117  WARN [Worker-3] - ScalaProject - Project AkkaRemoteActors runs on platform default installation.
+2017-06-30 21:01:17,196  WARN [Worker-3] - ScalaProject - Project TestScalaProject has platform default sourceLevel.
+2017-06-30 21:01:17,197  WARN [Worker-3] - ScalaProject - Project TestScalaProject runs on platform default installation.
+2017-06-30 21:01:20,074  WARN [Worker-3] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-06-30 21:01:20,075  WARN [Worker-3] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-06-30 21:01:20,076  WARN [Worker-3] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-06-30 21:01:20,076  WARN [Worker-3] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-06-30 21:01:20,077  WARN [Worker-3] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-06-30 21:01:20,077  WARN [Worker-3] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-06-30 21:01:20,078  WARN [Worker-3] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-06-30 21:01:20,078  WARN [Worker-3] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-06-30 21:01:20,079  WARN [Worker-3] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-06-30 21:01:20,079  WARN [Worker-3] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-06-30 21:01:29,400  WARN [Java indexing] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-06-30 21:01:29,400  WARN [Java indexing] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-06-30 21:04:39,403  WARN [main] - ScalaProject - Project TestScalaProject has platform default sourceLevel.
+2017-06-30 21:04:39,404  WARN [main] - ScalaProject - Project TestScalaProject runs on platform default installation.
+2017-06-30 21:34:24,378  WARN [Worker-5] - ScalaProject - Project AkkaStatefulActors has platform default sourceLevel.
+2017-06-30 21:34:24,391  WARN [Worker-5] - ScalaProject - Project AkkaStatefulActors runs on platform default installation.
+2017-06-30 21:34:24,415  WARN [Worker-5] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
+2017-06-30 21:34:24,416  WARN [Worker-5] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-06-30 21:34:24,418  WARN [Worker-5] - ScalaProject - Project AkkaSupervisingActors has platform default sourceLevel.
+2017-06-30 21:34:24,420  WARN [Worker-5] - ScalaProject - Project AkkaSupervisingActors runs on platform default installation.
+2017-06-30 21:34:24,421  WARN [Worker-5] - ScalaProject - Project AkkaRemoteActors has platform default sourceLevel.
+2017-06-30 21:34:24,421  WARN [Worker-5] - ScalaProject - Project AkkaRemoteActors runs on platform default installation.
+2017-06-30 21:34:24,465  WARN [Worker-5] - ScalaProject - Project TestScalaProject has platform default sourceLevel.
+2017-06-30 21:34:24,465  WARN [Worker-5] - ScalaProject - Project TestScalaProject runs on platform default installation.
+2017-06-30 21:34:27,185  WARN [Worker-5] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-06-30 21:34:27,186  WARN [Worker-5] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-06-30 21:34:27,187  WARN [Worker-5] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-06-30 21:34:27,187  WARN [Worker-5] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-06-30 21:34:27,188  WARN [Worker-5] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-06-30 21:34:27,189  WARN [Worker-5] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-06-30 21:34:27,190  WARN [Worker-5] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-06-30 21:34:27,190  WARN [Worker-5] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-06-30 21:34:27,201  WARN [Worker-5] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-06-30 21:34:27,201  WARN [Worker-5] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-06-30 21:35:15,884  WARN [Worker-11] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
+2017-06-30 21:35:15,885  WARN [Worker-11] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-06-30 21:35:15,975  WARN [Worker-11] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
+2017-06-30 21:35:15,975  WARN [Worker-11] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-06-30 21:35:17,011  WARN [Worker-11] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
+2017-06-30 21:35:17,011  WARN [Worker-11] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-06-30 21:35:17,743  WARN [Worker-11] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-06-30 21:35:17,743  WARN [Worker-11] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-06-30 21:35:18,665  WARN [Worker-11] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-06-30 21:35:18,665  WARN [Worker-11] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-06-30 21:35:18,674  WARN [Worker-11] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-06-30 21:35:18,674  WARN [Worker-11] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-06-30 21:35:19,229  WARN [Worker-11] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-06-30 21:35:19,229  WARN [Worker-11] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-06-30 21:35:19,722  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-06-30 21:35:19,723  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-06-30 21:35:19,733  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-06-30 21:35:19,733  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-06-30 21:35:20,204  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-06-30 21:35:20,204  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-06-30 21:35:20,749  WARN [Worker-11] - ScalaProject - Project AkkaRemoteActors has platform default sourceLevel.
+2017-06-30 21:35:20,750  WARN [Worker-11] - ScalaProject - Project AkkaRemoteActors runs on platform default installation.
+2017-06-30 21:35:20,759  WARN [Worker-11] - ScalaProject - Project AkkaRemoteActors has platform default sourceLevel.
+2017-06-30 21:35:20,759  WARN [Worker-11] - ScalaProject - Project AkkaRemoteActors runs on platform default installation.
+2017-06-30 21:35:21,305  WARN [Worker-11] - ScalaProject - Project AkkaRemoteActors has platform default sourceLevel.
+2017-06-30 21:35:21,306  WARN [Worker-11] - ScalaProject - Project AkkaRemoteActors runs on platform default installation.
+2017-06-30 21:35:22,444  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-06-30 21:35:22,445  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-06-30 21:35:22,452  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-06-30 21:35:22,452  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-06-30 21:35:23,009  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-06-30 21:35:23,009  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-06-30 21:35:23,553  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-06-30 21:35:23,553  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-06-30 21:35:23,561  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-06-30 21:35:23,561  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-06-30 21:35:24,043  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-06-30 21:35:24,044  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-06-30 21:35:24,545  WARN [Worker-11] - ScalaProject - Project AkkaStatefulActors has platform default sourceLevel.
+2017-06-30 21:35:24,545  WARN [Worker-11] - ScalaProject - Project AkkaStatefulActors runs on platform default installation.
+2017-06-30 21:35:24,552  WARN [Worker-11] - ScalaProject - Project AkkaStatefulActors has platform default sourceLevel.
+2017-06-30 21:35:24,552  WARN [Worker-11] - ScalaProject - Project AkkaStatefulActors runs on platform default installation.
+2017-06-30 21:35:25,054  WARN [Worker-11] - ScalaProject - Project AkkaStatefulActors has platform default sourceLevel.
+2017-06-30 21:35:25,056  WARN [Worker-11] - ScalaProject - Project AkkaStatefulActors runs on platform default installation.
+2017-06-30 21:35:25,587  WARN [Worker-11] - ScalaProject - Project AkkaSupervisingActors has platform default sourceLevel.
+2017-06-30 21:35:25,587  WARN [Worker-11] - ScalaProject - Project AkkaSupervisingActors runs on platform default installation.
+2017-06-30 21:35:25,594  WARN [Worker-11] - ScalaProject - Project AkkaSupervisingActors has platform default sourceLevel.
+2017-06-30 21:35:25,594  WARN [Worker-11] - ScalaProject - Project AkkaSupervisingActors runs on platform default installation.
+2017-06-30 21:35:26,161  WARN [Worker-11] - ScalaProject - Project AkkaSupervisingActors has platform default sourceLevel.
+2017-06-30 21:35:26,162  WARN [Worker-11] - ScalaProject - Project AkkaSupervisingActors runs on platform default installation.
+2017-06-30 21:35:26,662  WARN [Worker-11] - ScalaProject - Project TestScalaProject has platform default sourceLevel.
+2017-06-30 21:35:26,662  WARN [Worker-11] - ScalaProject - Project TestScalaProject runs on platform default installation.
+2017-06-30 21:35:26,669  WARN [Worker-11] - ScalaProject - Project TestScalaProject has platform default sourceLevel.
+2017-06-30 21:35:26,669  WARN [Worker-11] - ScalaProject - Project TestScalaProject runs on platform default installation.
+2017-06-30 21:48:55,301  WARN [ModalContext] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:48:55,301  WARN [ModalContext] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:48:55,337  WARN [ModalContext] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:48:55,337  WARN [ModalContext] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:48:55,838  WARN [Worker-4] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:48:55,838  WARN [Worker-4] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:48:56,295  WARN [Worker-4] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:48:56,296  WARN [Worker-4] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:25,027  WARN [Worker-4] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:25,027  WARN [Worker-4] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:25,509  WARN [Worker-4] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:25,509  WARN [Worker-4] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:34,104  WARN [main] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:34,104  WARN [main] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:40,496  WARN [Worker-21] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:40,496  WARN [Worker-21] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:40,893  WARN [Java indexing] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:40,894  WARN [Java indexing] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:43,807  WARN [Worker-21] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:43,807  WARN [Worker-21] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:44,444  WARN [Worker-4] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:44,445  WARN [Worker-4] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 21:49:46,761  WARN [Worker-4] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 21:49:46,761  WARN [Worker-4] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:08:31,341  WARN [ModalContext] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:08:31,341  WARN [ModalContext] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 22:08:31,342  WARN [ModalContext] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:08:31,342  WARN [ModalContext] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 22:08:31,682  WARN [ModalContext] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:08:31,682  WARN [ModalContext] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 22:09:50,228  WARN [main] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:09:50,229  WARN [main] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 22:09:55,208  WARN [main] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:09:55,209  WARN [main] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 22:10:33,845 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:388)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:106)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:148)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:951)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:799)
+	at scala.tools.nsc.interactive.Global.$anonfun$getTypedTreeAt$1(Global.scala:829)
+	at scala.tools.nsc.interactive.Global.$anonfun$respond$1(Global.scala:688)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:695)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:688)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:829)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:333)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:493)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:318)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2728)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2685)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2570)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2582)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.$anonfun$applyOrElse$2(Parsers.scala:3139)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:194)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3139)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3066)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3133)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$templateStatSeq$1(Parsers.scala:3120)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:481)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3097)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$templateBody$1(Parsers.scala:3026)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:66)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:3033)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2997)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2882)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2824)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2805)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.$anonfun$applyOrElse$1(Parsers.scala:3089)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:194)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3089)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3066)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topstats$1(Parsers.scala:3279)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topstats$1(Parsers.scala:3271)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$compilationUnit$1(Parsers.scala:3285)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:481)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3247)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser.$anonfun$parseStartRule$1(Parsers.scala:145)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$parse$1(Parsers.scala:351)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:344)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:351)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.$anonfun$smartParse$1(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:216)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:423)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:416)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$3(Global.scala:1528)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$2(Global.scala:1528)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$2$adapted(Global.scala:1527)
+	at scala.collection.Iterator.foreach(Iterator.scala:929)
+	at scala.collection.Iterator.foreach$(Iterator.scala:929)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1417)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1527)
+	at scala.tools.nsc.interactive.Global.parseAndEnter(Global.scala:645)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$4(Global.scala:554)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$3(Global.scala:551)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:551)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-06-30 22:10:35,122 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:388)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:106)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:148)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:951)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:799)
+	at scala.tools.nsc.interactive.Global.$anonfun$getTypedTreeAt$1(Global.scala:829)
+	at scala.tools.nsc.interactive.Global.$anonfun$respond$1(Global.scala:688)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:695)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:688)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:829)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:333)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:493)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:318)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2728)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2685)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2570)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2582)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.$anonfun$applyOrElse$2(Parsers.scala:3139)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:194)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3139)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3066)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3133)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$templateStatSeq$1(Parsers.scala:3120)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:481)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3097)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$templateBody$1(Parsers.scala:3026)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:66)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:3033)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2997)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2882)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2824)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2805)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.$anonfun$applyOrElse$1(Parsers.scala:3089)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:194)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3089)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3066)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topstats$1(Parsers.scala:3279)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topstats$1(Parsers.scala:3271)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$compilationUnit$1(Parsers.scala:3285)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:481)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3247)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser.$anonfun$parseStartRule$1(Parsers.scala:145)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.$anonfun$parse$1(Parsers.scala:351)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:344)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:351)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.$anonfun$smartParse$1(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:216)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:423)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:416)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$3(Global.scala:1528)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$2(Global.scala:1528)
+	at scala.tools.nsc.Global$Run.$anonfun$compileLate$2$adapted(Global.scala:1527)
+	at scala.collection.Iterator.foreach(Iterator.scala:929)
+	at scala.collection.Iterator.foreach$(Iterator.scala:929)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1417)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1527)
+	at scala.tools.nsc.interactive.Global.parseAndEnter(Global.scala:645)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$4(Global.scala:554)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$3(Global.scala:551)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:551)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-06-30 22:11:51,994  WARN [Worker-36] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 22:11:51,994  WARN [Worker-36] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:11:52,506  WARN [Worker-36] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 22:11:52,506  WARN [Worker-36] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:12:17,835  WARN [main] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-06-30 22:12:17,835  WARN [main] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-06-30 22:12:52,942  WARN [main] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 22:12:52,942  WARN [main] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:12:53,126  WARN [Worker-39] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 22:12:53,126  WARN [Worker-39] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:12:57,343  WARN [Worker-39] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 22:12:57,343  WARN [Worker-39] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:13:10,793  WARN [Worker-37] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 22:13:10,793  WARN [Worker-37] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:13:12,838  WARN [Worker-37] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-06-30 22:13:12,838  WARN [Worker-37] - ScalaProject - Project TestProject runs on platform default installation.
+2017-06-30 22:29:32,503  WARN [Worker-48] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:29:32,503  WARN [Worker-48] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 22:29:32,790  WARN [Java indexing] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:29:32,791  WARN [Java indexing] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 22:59:57,298  WARN [main] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-06-30 22:59:57,298  WARN [main] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-06-30 23:07:52,979 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-07-01 19:05:52,685  WARN [Worker-3] - ScalaProject - Project AkkaStatefulActors has platform default sourceLevel.
+2017-07-01 19:05:52,692  WARN [Worker-3] - ScalaProject - Project AkkaStatefulActors runs on platform default installation.
+2017-07-01 19:05:52,703  WARN [Worker-3] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
+2017-07-01 19:05:52,704  WARN [Worker-3] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-07-01 19:05:52,705  WARN [Worker-3] - ScalaProject - Project AkkaSupervisingActors has platform default sourceLevel.
+2017-07-01 19:05:52,706  WARN [Worker-3] - ScalaProject - Project AkkaSupervisingActors runs on platform default installation.
+2017-07-01 19:05:52,709  WARN [Worker-3] - ScalaProject - Project AkkaRemoteActors has platform default sourceLevel.
+2017-07-01 19:05:52,709  WARN [Worker-3] - ScalaProject - Project AkkaRemoteActors runs on platform default installation.
+2017-07-01 19:05:52,710  WARN [Worker-3] - ScalaProject - Project TestProject has platform default sourceLevel.
+2017-07-01 19:05:52,711  WARN [Worker-3] - ScalaProject - Project TestProject runs on platform default installation.
+2017-07-01 19:05:52,714  WARN [Worker-3] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-07-01 19:05:52,715  WARN [Worker-3] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-07-01 19:05:52,716  WARN [Worker-3] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-07-01 19:05:52,717  WARN [Worker-3] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-07-01 19:05:52,761  WARN [Worker-3] - ScalaProject - Project TestScalaProject has platform default sourceLevel.
+2017-07-01 19:05:52,761  WARN [Worker-3] - ScalaProject - Project TestScalaProject runs on platform default installation.
+2017-07-01 19:05:58,751  WARN [Worker-3] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-07-01 19:05:58,751  WARN [Worker-3] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-07-01 19:05:58,752  WARN [Worker-3] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:05:58,752  WARN [Worker-3] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:05:58,753  WARN [Worker-3] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:05:58,754  WARN [Worker-3] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:05:58,754  WARN [Worker-3] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:05:58,755  WARN [Worker-3] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:05:58,756  WARN [Worker-3] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:05:58,749  WARN [Worker-14] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-07-01 19:05:58,757  WARN [Worker-14] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-07-01 19:05:58,760  WARN [Worker-14] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:05:58,761  WARN [Worker-14] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:05:58,757  WARN [Worker-3] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:05:58,763  WARN [Worker-14] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:05:58,764  WARN [Worker-14] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:05:58,764  WARN [Worker-14] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:05:58,765  WARN [Worker-14] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:05:58,766  WARN [Worker-14] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:05:58,767  WARN [Worker-14] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:06:00,697  WARN [Worker-18] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-07-01 19:06:00,697  WARN [Worker-18] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-07-01 19:06:02,103  WARN [Worker-18] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:06:02,104  WARN [Worker-18] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:06:02,192  WARN [Worker-18] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:06:02,192  WARN [Worker-18] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:06:03,643  WARN [Worker-18] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:06:03,644  WARN [Worker-18] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:06:05,026  WARN [Worker-18] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:06:05,026  WARN [Worker-18] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:06:05,066  WARN [Worker-18] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:06:05,066  WARN [Worker-18] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:06:05,688  WARN [Worker-18] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:06:05,689  WARN [Worker-18] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:06:06,268  WARN [Worker-18] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:06:06,268  WARN [Worker-18] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:06:06,278  WARN [Worker-18] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:06:06,278  WARN [Worker-18] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:06:06,846  WARN [Worker-18] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:06:06,846  WARN [Worker-18] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:06:07,400  WARN [Worker-18] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:06:07,400  WARN [Worker-18] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:06:07,409  WARN [Worker-18] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:06:07,409  WARN [Worker-18] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:06:07,921  WARN [Worker-18] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:06:07,921  WARN [Worker-18] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:09:56,324  WARN [ModalContext] - ScalaProject - Project play-scala-intro has platform default sourceLevel.
+2017-07-01 19:09:56,324  WARN [ModalContext] - ScalaProject - Project play-scala-intro runs on platform default installation.
+2017-07-01 19:09:56,770  WARN [ModalContext] - ScalaProject - Project play-scala-intro has platform default sourceLevel.
+2017-07-01 19:09:56,771  WARN [ModalContext] - ScalaProject - Project play-scala-intro runs on platform default installation.
+2017-07-01 19:09:57,177  WARN [Worker-3] - ScalaProject - Project play-scala-intro has platform default sourceLevel.
+2017-07-01 19:09:57,177  WARN [Worker-3] - ScalaProject - Project play-scala-intro runs on platform default installation.
+2017-07-01 19:09:57,431  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for play-scala-intro, setting default to 2.12.
+2017-07-01 19:09:57,435  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for play-scala-intro, setting default to 2.12.
+2017-07-01 19:53:05,627  WARN [Worker-5] - ScalaProject - Project AkkaStatefulActors has platform default sourceLevel.
+2017-07-01 19:53:05,642  WARN [Worker-5] - ScalaProject - Project AkkaStatefulActors runs on platform default installation.
+2017-07-01 19:53:05,654  WARN [Worker-5] - ScalaProject - Project AkkaIntegratorsActors has platform default sourceLevel.
+2017-07-01 19:53:05,654  WARN [Worker-5] - ScalaProject - Project AkkaIntegratorsActors runs on platform default installation.
+2017-07-01 19:53:05,655  WARN [Worker-5] - ScalaProject - Project AkkaSupervisingActors has platform default sourceLevel.
+2017-07-01 19:53:05,656  WARN [Worker-5] - ScalaProject - Project AkkaSupervisingActors runs on platform default installation.
+2017-07-01 19:53:05,657  WARN [Worker-5] - ScalaProject - Project AkkaRemoteActors has platform default sourceLevel.
+2017-07-01 19:53:05,657  WARN [Worker-5] - ScalaProject - Project AkkaRemoteActors runs on platform default installation.
+2017-07-01 19:53:05,703  WARN [Worker-5] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-07-01 19:53:05,703  WARN [Worker-5] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-07-01 19:53:05,704  WARN [Worker-5] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-07-01 19:53:05,704  WARN [Worker-5] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-07-01 19:53:05,798  WARN [Worker-5] - ScalaProject - Project TestScalaProject has platform default sourceLevel.
+2017-07-01 19:53:05,799  WARN [Worker-5] - ScalaProject - Project TestScalaProject runs on platform default installation.
+2017-07-01 19:53:06,730  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for play-scala-intro, setting default to 2.12.
+2017-07-01 19:53:06,731  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for play-scala-intro, setting default to 2.12.
+2017-07-01 19:53:09,230  WARN [Worker-11] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-07-01 19:53:09,231  WARN [Worker-5] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-07-01 19:53:09,231  WARN [Worker-5] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-07-01 19:53:09,231  WARN [Worker-11] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-07-01 19:53:09,233  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:53:09,233  WARN [Worker-11] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:53:09,234  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:53:09,235  WARN [Worker-11] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:53:09,235  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:53:09,236  WARN [Worker-11] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:53:09,237  WARN [Worker-11] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:53:09,237  WARN [Worker-11] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:53:09,233  WARN [Worker-5] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:53:09,238  WARN [Worker-5] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:53:09,239  WARN [Worker-5] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:53:09,239  WARN [Worker-5] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:53:09,240  WARN [Worker-5] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:53:09,240  WARN [Worker-5] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:53:09,241  WARN [Worker-5] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:53:09,241  WARN [Worker-5] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:53:10,764  WARN [Worker-19] - ScalaProject - Project AkkaMavenIntegrator has platform default sourceLevel.
+2017-07-01 19:53:10,765  WARN [Worker-19] - ScalaProject - Project AkkaMavenIntegrator runs on platform default installation.
+2017-07-01 19:53:11,937  WARN [Worker-19] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:53:11,938  WARN [Worker-19] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:53:12,041  WARN [Worker-19] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:53:12,041  WARN [Worker-19] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:53:13,911  WARN [Worker-19] - ScalaProject - Project AkkaPI has platform default sourceLevel.
+2017-07-01 19:53:13,912  WARN [Worker-19] - ScalaProject - Project AkkaPI runs on platform default installation.
+2017-07-01 19:53:14,603  WARN [Worker-19] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:53:14,604  WARN [Worker-19] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:53:14,613  WARN [Worker-19] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:53:14,613  WARN [Worker-19] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:53:15,106  WARN [Worker-19] - ScalaProject - Project AkkaPingPongExample has platform default sourceLevel.
+2017-07-01 19:53:15,106  WARN [Worker-19] - ScalaProject - Project AkkaPingPongExample runs on platform default installation.
+2017-07-01 19:53:15,779  WARN [Worker-19] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:53:15,780  WARN [Worker-19] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:53:15,788  WARN [Worker-19] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:53:15,789  WARN [Worker-19] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:53:17,007  WARN [Worker-19] - ScalaProject - Project AkkaSimpleActors has platform default sourceLevel.
+2017-07-01 19:53:17,007  WARN [Worker-19] - ScalaProject - Project AkkaSimpleActors runs on platform default installation.
+2017-07-01 19:53:17,617  WARN [Worker-19] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:53:17,617  WARN [Worker-19] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:53:17,626  WARN [Worker-19] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:53:17,626  WARN [Worker-19] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:53:18,120  WARN [Worker-19] - ScalaProject - Project AkkaSimpleMessaging has platform default sourceLevel.
+2017-07-01 19:53:18,121  WARN [Worker-19] - ScalaProject - Project AkkaSimpleMessaging runs on platform default installation.
+2017-07-01 19:58:29,656  WARN [main] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-07-01 19:58:29,656  WARN [main] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-07-01 19:59:47,392  WARN [Worker-24] - ScalaProject - Project SparkSimpleProjects has platform default sourceLevel.
+2017-07-01 19:59:47,392  WARN [Worker-24] - ScalaProject - Project SparkSimpleProjects runs on platform default installation.
+2017-07-01 20:11:32,875  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:32,876  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:38,972  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:38,972  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:39,488  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:39,489  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:40,000  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:40,001  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:43,015  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:44,039  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:46,087  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:49,138  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:49,652  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:11:50,188  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:00,327  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:08,460  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:14,540  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:20,087  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:27,185  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:31,253  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:33,800  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:34,312  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:12:34,827  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2017-07-01 20:33:14,717  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

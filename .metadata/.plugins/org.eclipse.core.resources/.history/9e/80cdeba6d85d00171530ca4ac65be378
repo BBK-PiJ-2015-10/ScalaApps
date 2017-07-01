@@ -1,0 +1,8 @@
+package practice
+
+import org.apache.spark.SparkConf
+
+
+object TempCalculator {
+  
+}

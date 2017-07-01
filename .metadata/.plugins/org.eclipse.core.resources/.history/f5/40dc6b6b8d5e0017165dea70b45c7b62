@@ -1,0 +1,17 @@
+@(message: String)
+
+@main("Welcome to play Alejandrito"){
+
+	<form ></form>
+
+}
+
+
+<!--
+@()
+
+@main("Welcome to Play") {
+  <h1>Welcome to Play Alejandro Palacios!</h1>
+  <h1>It is time to Play</h1>
+}
+-->

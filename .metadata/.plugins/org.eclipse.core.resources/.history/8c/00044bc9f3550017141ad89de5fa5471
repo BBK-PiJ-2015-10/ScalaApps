@@ -1,7 +1,0 @@
-import akka.actor.Actor
-
-class Listener extends Actor {
-  
-  
-  
-}
